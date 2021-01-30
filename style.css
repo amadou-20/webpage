@@ -66,4 +66,5 @@
     padding: 8px;
     border-radius: 4px;
     border: none;
+    outline-width: 0;
   }
