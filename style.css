@@ -10,6 +10,9 @@
     margin: auto;
     font-family: Roboto;
   }
+  body {
+    background-image: url('https://cdn.pixabay.com/photo/2019/08/21/08/52/sea-4420591_960_720.jpg');
+  }
 
   .my_div img {
     border-radius: 3px;
